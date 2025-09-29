@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherForeCastApp</string>
+
+    <string name="enter_the_city_name">Get the city name</string>
+    <string name="get_weather_detail">Get weather for above city</string>
+    <string name="city_empty_error">City not found</string>
+</resources>
